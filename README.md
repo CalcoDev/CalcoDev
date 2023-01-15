@@ -23,8 +23,9 @@ Beside's programming, I enjoy art, music and history.
   
 **Personal Projects:**
 
+- 🎮 Working on several games using C# and the Godot game engine or MonoGame.
+- 🕸️ Making my personal website using SvelteKit and JS.
 - 👨🏽‍💻 Learning Rust and C++.
-- 🎮 I’m currently working on several games using C# and the Godot game engine.
 - 💬 If, for some odd reason, you would like to contact me, this is the place for you: [@calcopod](https://twitter.com/calcopod2).
 
 **Languages and Tools:**  
