@@ -17,7 +17,7 @@
 <br />
 
 Hi, I'm [Calcopod], a Full Stack Developer 🚀 from Romania, currently, I am in my second year of High School. 👨🏽‍💻
-Beside's programming, I enjoy art, music and history.
+Besides programming, I enjoy art, music and history.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
